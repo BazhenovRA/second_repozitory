@@ -1,3 +1,4 @@
-def ded_maksim(years):
+def ded_maksim(years, sm):
     print(f'ded maksim ymer v {years} let')
-    return years
+    print(f'y nego bilo {sm}')
+    return years, sm
